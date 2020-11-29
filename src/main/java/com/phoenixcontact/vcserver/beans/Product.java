@@ -21,6 +21,7 @@ public class Product {
 	private String number;
 	private String description;
 	private String lastVersion;
+	
 	public Long getId() {
 		return id;
 	}
